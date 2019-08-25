@@ -1,3 +1,5 @@
+import _ from 'lodash'
+
 const componet = () => {
 	const element = document.createElement('div')
 	const array = ['Hello', 'Webpack', 'これはよくないで']
